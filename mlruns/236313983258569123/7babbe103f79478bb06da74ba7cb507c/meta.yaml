@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/7babbe103f79478bb06da74ba7cb507c/artifacts
+end_time: 1737188195499
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 7babbe103f79478bb06da74ba7cb507c
+run_name: burly-gnu-171
+run_uuid: 7babbe103f79478bb06da74ba7cb507c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737188192146
+status: 4
+tags: []
+user_id: ritesh

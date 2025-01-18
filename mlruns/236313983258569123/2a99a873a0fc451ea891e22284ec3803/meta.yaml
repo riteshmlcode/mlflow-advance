@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/2a99a873a0fc451ea891e22284ec3803/artifacts
+end_time: 1737189127088
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 2a99a873a0fc451ea891e22284ec3803
+run_name: redolent-auk-604
+run_uuid: 2a99a873a0fc451ea891e22284ec3803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189127082
+status: 4
+tags: []
+user_id: ritesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/a43aa1349bd448f8badc4aa9aa68c1ed/artifacts
+end_time: 1737189291133
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: a43aa1349bd448f8badc4aa9aa68c1ed
+run_name: abrasive-skink-154
+run_uuid: a43aa1349bd448f8badc4aa9aa68c1ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291123
+status: 3
+tags: []
+user_id: ritesh

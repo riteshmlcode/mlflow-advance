@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/659ee2431bbf47e186089ebdc82a5ab4/artifacts
+end_time: 1737189221643
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 659ee2431bbf47e186089ebdc82a5ab4
+run_name: loud-bat-967
+run_uuid: 659ee2431bbf47e186089ebdc82a5ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189221637
+status: 4
+tags: []
+user_id: ritesh

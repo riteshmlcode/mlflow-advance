@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/96480d47968741cc9940f73404442cdd/artifacts
+end_time: 1737189291191
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 96480d47968741cc9940f73404442cdd
+run_name: bright-donkey-905
+run_uuid: 96480d47968741cc9940f73404442cdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291185
+status: 3
+tags: []
+user_id: ritesh

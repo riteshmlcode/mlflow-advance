@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/93daa8603f114b2d9bc493e0d2731103/artifacts
+end_time: 1737189291198
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 93daa8603f114b2d9bc493e0d2731103
+run_name: receptive-grouse-113
+run_uuid: 93daa8603f114b2d9bc493e0d2731103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291192
+status: 3
+tags: []
+user_id: ritesh

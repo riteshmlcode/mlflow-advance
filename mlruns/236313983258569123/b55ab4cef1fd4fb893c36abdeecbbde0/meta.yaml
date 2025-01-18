@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/b55ab4cef1fd4fb893c36abdeecbbde0/artifacts
+end_time: 1737189291153
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: b55ab4cef1fd4fb893c36abdeecbbde0
+run_name: lyrical-shark-763
+run_uuid: b55ab4cef1fd4fb893c36abdeecbbde0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291148
+status: 3
+tags: []
+user_id: ritesh

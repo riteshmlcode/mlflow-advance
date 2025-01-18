@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/bf226dcb1c19422089f54106cf56104c/artifacts
+end_time: 1737189291184
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: bf226dcb1c19422089f54106cf56104c
+run_name: trusting-smelt-195
+run_uuid: bf226dcb1c19422089f54106cf56104c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291178
+status: 3
+tags: []
+user_id: ritesh

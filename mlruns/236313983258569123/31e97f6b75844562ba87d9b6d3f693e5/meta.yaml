@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/31e97f6b75844562ba87d9b6d3f693e5/artifacts
+end_time: 1737189291160
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 31e97f6b75844562ba87d9b6d3f693e5
+run_name: classy-mouse-195
+run_uuid: 31e97f6b75844562ba87d9b6d3f693e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291154
+status: 3
+tags: []
+user_id: ritesh

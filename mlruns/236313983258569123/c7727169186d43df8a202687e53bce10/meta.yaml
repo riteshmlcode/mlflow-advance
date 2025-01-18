@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/c7727169186d43df8a202687e53bce10/artifacts
+end_time: 1737188391783
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: c7727169186d43df8a202687e53bce10
+run_name: useful-panda-288
+run_uuid: c7727169186d43df8a202687e53bce10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737188386447
+status: 3
+tags: []
+user_id: ritesh

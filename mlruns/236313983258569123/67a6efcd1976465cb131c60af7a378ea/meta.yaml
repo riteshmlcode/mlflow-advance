@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/67a6efcd1976465cb131c60af7a378ea/artifacts
+end_time: 1737189291211
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: 67a6efcd1976465cb131c60af7a378ea
+run_name: dashing-cub-145
+run_uuid: 67a6efcd1976465cb131c60af7a378ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291205
+status: 3
+tags: []
+user_id: ritesh

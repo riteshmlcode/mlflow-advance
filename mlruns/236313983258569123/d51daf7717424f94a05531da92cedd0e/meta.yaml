@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/236313983258569123/d51daf7717424f94a05531da92cedd0e/artifacts
+end_time: 1737189291140
+entry_point_name: ''
+experiment_id: '236313983258569123'
+lifecycle_stage: active
+run_id: d51daf7717424f94a05531da92cedd0e
+run_name: amusing-pig-537
+run_uuid: d51daf7717424f94a05531da92cedd0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737189291134
+status: 3
+tags: []
+user_id: ritesh
