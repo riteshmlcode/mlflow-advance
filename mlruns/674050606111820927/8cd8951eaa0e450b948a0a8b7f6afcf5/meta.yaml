@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/674050606111820927/8cd8951eaa0e450b948a0a8b7f6afcf5/artifacts
+end_time: 1737182624500
+entry_point_name: ''
+experiment_id: '674050606111820927'
+lifecycle_stage: active
+run_id: 8cd8951eaa0e450b948a0a8b7f6afcf5
+run_name: big-wren-203
+run_uuid: 8cd8951eaa0e450b948a0a8b7f6afcf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737182622121
+status: 4
+tags: []
+user_id: ritesh

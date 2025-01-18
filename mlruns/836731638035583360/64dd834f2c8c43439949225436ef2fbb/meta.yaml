@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/836731638035583360/64dd834f2c8c43439949225436ef2fbb/artifacts
+end_time: 1737183985379
+entry_point_name: ''
+experiment_id: '836731638035583360'
+lifecycle_stage: active
+run_id: 64dd834f2c8c43439949225436ef2fbb
+run_name: delicate-robin-89
+run_uuid: 64dd834f2c8c43439949225436ef2fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737183982772
+status: 3
+tags: []
+user_id: ritesh

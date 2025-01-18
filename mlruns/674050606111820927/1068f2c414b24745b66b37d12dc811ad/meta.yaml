@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/674050606111820927/1068f2c414b24745b66b37d12dc811ad/artifacts
+end_time: 1737182254885
+entry_point_name: ''
+experiment_id: '674050606111820927'
+lifecycle_stage: active
+run_id: 1068f2c414b24745b66b37d12dc811ad
+run_name: beautiful-crane-489
+run_uuid: 1068f2c414b24745b66b37d12dc811ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737182252459
+status: 4
+tags: []
+user_id: ritesh

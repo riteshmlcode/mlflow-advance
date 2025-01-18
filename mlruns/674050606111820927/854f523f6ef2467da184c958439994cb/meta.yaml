@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/674050606111820927/854f523f6ef2467da184c958439994cb/artifacts
+end_time: 1737181999490
+entry_point_name: ''
+experiment_id: '674050606111820927'
+lifecycle_stage: active
+run_id: 854f523f6ef2467da184c958439994cb
+run_name: treasured-steed-632
+run_uuid: 854f523f6ef2467da184c958439994cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737181997066
+status: 4
+tags: []
+user_id: ritesh

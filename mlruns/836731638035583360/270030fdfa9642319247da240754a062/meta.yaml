@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/836731638035583360/270030fdfa9642319247da240754a062/artifacts
+end_time: 1737183680021
+entry_point_name: ''
+experiment_id: '836731638035583360'
+lifecycle_stage: active
+run_id: 270030fdfa9642319247da240754a062
+run_name: capricious-fish-65
+run_uuid: 270030fdfa9642319247da240754a062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737183679770
+status: 3
+tags: []
+user_id: ritesh

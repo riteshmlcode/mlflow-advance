@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/674050606111820927/02715a3b465c475aa995fadb57593f1d/artifacts
+end_time: 1737182666352
+entry_point_name: ''
+experiment_id: '674050606111820927'
+lifecycle_stage: active
+run_id: 02715a3b465c475aa995fadb57593f1d
+run_name: redolent-carp-39
+run_uuid: 02715a3b465c475aa995fadb57593f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737182664329
+status: 4
+tags: []
+user_id: ritesh

@@ -1,0 +1,10 @@
+digest: bb3d761c
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 480}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal.length", "required":
+  true}, {"type": "double", "name": "sepal.width", "required": true}, {"type": "double",
+  "name": "petal.length", "required": true}, {"type": "double", "name": "petal.width",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "ritesh", "mlflow.source.name": "train.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

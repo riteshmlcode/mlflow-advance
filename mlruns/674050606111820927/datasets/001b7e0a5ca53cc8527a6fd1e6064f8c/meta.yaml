@@ -1,0 +1,10 @@
+digest: 5695d88f
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 600}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": 0, "required": true}, {"type":
+  "double", "name": 1, "required": true}, {"type": "double", "name": 2, "required":
+  true}, {"type": "double", "name": 3, "required": true}, {"type": "long", "name":
+  "variety", "required": true}]}'
+source: '{"tags": {"mlflow.user": "ritesh", "mlflow.source.name": "train.py", "mlflow.source.type":
+  "LOCAL"}}'
+source_type: code

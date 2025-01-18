@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritesh/Desktop/Work/MLOps/advanced-mlflow/mlruns/836731638035583360/cf0a33f092ef4801908c564c2d1ad32e/artifacts
+end_time: 1737183429582
+entry_point_name: ''
+experiment_id: '836731638035583360'
+lifecycle_stage: active
+run_id: cf0a33f092ef4801908c564c2d1ad32e
+run_name: bouncy-dog-632
+run_uuid: cf0a33f092ef4801908c564c2d1ad32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737183429355
+status: 3
+tags: []
+user_id: ritesh
